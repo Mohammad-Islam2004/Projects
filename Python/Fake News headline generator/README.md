@@ -4,12 +4,6 @@ This project is a fun Python-based fake news headline generator that creates ran
 
 ---
 
-## 🔗 GitHub Repository
-
-👉 [View Project on GitHub](https://github.com/Mohammad-Islam2004/fake-news-headline-generator)
-
----
-
 ## 🧠 Features
 
 - Randomly generates absurd fake news headlines
