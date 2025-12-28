@@ -47,7 +47,8 @@ The dashboard is especially useful for **cricket fans, data analysts, students, 
 
 📊 **Sample Screenshot**
 
-<img width="997" height="545" alt="image" src="https://github.com/user-attachments/assets/9cbd5214-7fce-43e8-8dd3-daebac3afbd1" />
+<img width="997" height="545" alt="Screenshot 2025-12-25 210804" src="https://github.com/user-attachments/assets/9b7a802c-c5fe-44c8-b1f0-70d094b3affd" />
+
 
 * Kaggle IPL datasets
 * Power BI / Tableau community reso
