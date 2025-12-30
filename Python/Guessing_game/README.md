@@ -40,12 +40,35 @@ The player selects a difficulty level and tries to guess the secret word with hi
 
 ---
 
-## ▶️ How to Run the Game
+## 📌 Sample Output
 
-1. Install Python 3 on your system.
-2. Download or clone this repository.
-3. Open a terminal in the project folder.
-4. Run the command:
+-Welcome to guessing game...
+-Please choose the difficulty level (easy, medium, hard) :
+-Enter difficulty level : easy
+-Guess the word...
+-Enter your word : road
+-Hint : r___
+-Enter your word : rock
+-Hint : ro__
+-Enter your word : road
+-Congratulations ! You guessed correct word in 3 attempts.
+-Game Over !
 
-```bash
-python guessing_game.py
+---
+
+## 🚀 Features
+
+-Random word selection
+-Multiple difficulty levels
+-Helpful hints after each attempt
+-Counts number of attempts
+-Beginner-friendly Python project
+
+---
+
+## 📚 Learning Outcomes
+
+-Working with lists and strings
+-Conditional statements
+-Loops in Python
+-Basic game logic
